@@ -47,7 +47,7 @@ class _Splash2State extends State<Splash2> {
       decoration: BoxDecoration(
         image: DecorationImage(
             image: AssetImage(
-              'assets/s_logo.png',
+              'assets/ss_logo.png',
             ),
             fit: BoxFit.fill,
             colorFilter: ColorFilter.mode(
